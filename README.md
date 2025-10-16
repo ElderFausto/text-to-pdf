@@ -5,7 +5,7 @@
 [![Maven](https://img.shields.io/badge/Maven-4.0-red.svg)](https://maven.apache.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-API RESTful robusta e eficiente construída com **Spring Boot** para converter dinamicamente texto puro em documentos PDF. Esta aplicação foi projetada para ser leve, escalável e facilmente integrável com qualquer cliente frontend.
+API RESTful eficiente construída com **Spring Boot** para converter dinamicamente texto puro em documentos PDF. Esta aplicação foi projetada para ser leve, escalável e facilmente integrável com qualquer cliente frontend.
 
 ## 🚀 Funcionalidades Principais
 
